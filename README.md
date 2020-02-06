@@ -11,6 +11,8 @@ npm install
 npm run dev
 ```
 
+All environment variables are stored in ./src/env.ts file.  This is ignored by github.  I recommend that you only have one .env file to keep things simple.
+
 ## Typescript on components
 
 This is required for visual code.
